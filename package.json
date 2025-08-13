@@ -1,0 +1,23 @@
+{
+  "name": "keith-effects",
+  "version": "1.0.0",
+  "description": "Unofficial Node.js wrapper for PhotoFunia image effects",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "photofunia",
+    "image-effects",
+    "photo-editing",
+    "scraper",
+    "fun"
+  ],
+  "author": "keizzahkeith",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "form-data": "^4.0.0"
+  }
+}
